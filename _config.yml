@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Keita Mori"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "研究者のハードウェアの開発日記"
+  bio              : # "研究者のハードウェアの開発日記"
   location         : "Tokyo"
   email            :
   links:
