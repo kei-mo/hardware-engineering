@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ソフトウェアエンジニアがハードウェアに慣れるまで 
+title:  
 author_profile: true
 ---
 
