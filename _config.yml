@@ -15,11 +15,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "ハードウェアエンジニアリング日記"
+title                    : "ハードウェアエンジニアリング奮闘記"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Keita Mori"
-description              : "研究者のハードウェアの開発日記"
+description              : "ハードウェア開発奮闘記"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -62,7 +62,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
